@@ -1,7 +1,24 @@
 ![SEJOLOGOFINAL](https://user-images.githubusercontent.com/92968661/166338333-f49a1418-849c-4a17-9cd0-81bf3a290505.png)
 
-# Hey, I'm Sejo!
-### I am a Creative Developer and UI/Graphic Designer with a focus on, but not limited to, Front-End Development and Creative Design. My passion for creativity motivates me to continuously expand my skill set through new technologies, inspire others, and work collectively to bring new ideas to life. I truly enjoy building my own projects, and am always looking for ways to challenge myself. I am currently studying and diving deeper into Front-End architecture along with Advanced CSS/Animations. I am available for front-end and design work.
+# ✨Hey, I'm Sejo!✨
+### I am a Creative Developer and UI/Graphic Designer with a focus on, but not limited to, Front-End Development and Creative Design. I am available for a full time role in front-end/full-stack and design work.
+
+- 🇧🇦 Born in Bosnia - Based in Arizona
+- 🎓 Flatiron School SWE Grad
+- 💻 3 Years of Design Experience
+- 🎧 6 Years of Music Production & Sound Engineering
+- 📷 7 Years of Photography and Digital Media
+
+- Now Studying:
+    - Front-End Architecture 
+    - Data Structures & Algorithms
+    - Advanced CSS/Animations
+- Hobbies:
+    - Building Projects
+    - Web Design/Graphic Design
+    - Making Music(Ableton)
+    - Gaming
+    
 
 ### Connect with me!
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sejo-basic/)[<img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white">](https://www.codesandbox.io/u/sejobasic/)[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:sejobasicwork@gmail.com)
