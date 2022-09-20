@@ -6,6 +6,7 @@
 - 🇧🇦 Born in Bosnia - Based in Arizona
 - 🎓 Flatiron School SWE Grad
 - 💻 3 Years of Design Experience
+- 🖨️ 4 Years of Print Production
 - 🎧 6 Years of Music Production & Sound Engineering
 - 📷 7 Years of Photography and Digital Media
 
