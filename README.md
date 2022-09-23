@@ -17,6 +17,7 @@
 - Hobbies:
     - Building Projects
     - Web Design/Graphic Design
+    - Digging Through Codepen
     - Making Music(Ableton)
     - Gaming
     
