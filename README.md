@@ -1,7 +1,7 @@
 ![SEJOLOGOFINAL](https://user-images.githubusercontent.com/92968661/166338333-f49a1418-849c-4a17-9cd0-81bf3a290505.png)
 
 # ✨Hey, I'm Sejo!✨
-### I am a Creative Developer and UI/Graphic Designer with a focus on, but not limited to, Front-End Development and Creative Design. I am available for a full time role in front-end/full-stack and design work.
+### I am a Front-End Developer and UI/Graphic Designer with a focus on, but not limited to, Front-End Development and Creative Design. I am available for a full time role in front-end/full-stack and design work.
 
 - 🇧🇦 Born in Bosnia - Based in Arizona
 - 🎓 Flatiron School SWE Grad
