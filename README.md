@@ -14,7 +14,6 @@
     - Front-End Development(Libraries/Frameworks)
     - Data Structures & Algorithms
     - Advanced CSS/Animations
-    - 
 - Hobbies:
     - Building Projects
     - Web Design/Graphic Design
