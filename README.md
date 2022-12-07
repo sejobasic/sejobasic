@@ -11,7 +11,7 @@
 - 📷 7 Years of Photography and Digital Media
 
 - Now Studying:
-    - Front-End Development(Libraries/Frameworks)
+    - Back End Development Utilizing Java
     - Data Structures & Algorithms
     - Advanced CSS/Animations
 - Hobbies:
