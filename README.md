@@ -12,7 +12,7 @@
 
 - Now Studying:
     - Back End Development Utilizing Java
-    - Data Structures & Algorithms
+    - OOP
     - Advanced CSS/Animations
 - Hobbies:
     - Building Projects
