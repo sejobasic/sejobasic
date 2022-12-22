@@ -11,7 +11,7 @@
 - 📷 7 Years of Photography and Digital Media
 
 - Now Studying:
-    - Back End Development Utilizing Java
+    - Back End Development Utilizing Java with Springboot
     - OOP
     - Advanced CSS/Animations
 - Hobbies:
