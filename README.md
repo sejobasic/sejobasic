@@ -4,7 +4,6 @@
 ### I am a Front-End Developer and UI/Graphic Designer with a focus on, but not limited to, Front-End Development and Creative Design. I am available for a full time role in front-end/full-stack.
 
 - 🇧🇦 Born in Bosnia - Based in Arizona
-- 🎓 Flatiron School SWE Grad
 - 💻 3 Years of Design Experience
 - 🖨️ 4 Years of Print Production
 - 🎧 6 Years of Music Production & Sound Engineering
