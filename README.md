@@ -1,7 +1,7 @@
 ![SEJOLOGOFINAL](https://user-images.githubusercontent.com/92968661/166338333-f49a1418-849c-4a17-9cd0-81bf3a290505.png)
 
 # ✨Hey, I'm Sejo!✨
-### I am a Front-End Developer and UI/Graphic Designer with a focus on, but not limited to, Front-End Development and Web Design. I am available for a full time role in front-end/full-stack.
+### I am a Front-End Developer and UI/Graphic Designer with a focus on, but not limited to, Front-End Development and Web Design. Currently looking for a full time dev role.
 
 - 🇧🇦 Born in Bosnia - Based in Arizona
 - 💻 3 Years of Design Experience
