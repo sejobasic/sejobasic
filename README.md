@@ -1,7 +1,7 @@
 ![SEJOLOGOFINAL](https://user-images.githubusercontent.com/92968661/166338333-f49a1418-849c-4a17-9cd0-81bf3a290505.png)
 
 # ✨Hey, I'm Sejo!✨
-### Software Engineer and Graphic Designer with expertise in Front-End and User-Experience Development and Design. Seeking entry-level opportunities, at a forward-thinking organization with a supportive culture of learning to kick-start my career in the field and work with a team of professionals to enhance my skills and grow as a developer. I would love a chance to work on meaningful, innovative projects, and am energized by lifelong learning.
+### Software Engineer and Graphic Designer with expertise in Front-End and User-Experience Development and Design. Seeking opportunities at a forward-thinking organization with a supportive culture of learning to kick-start my career in the field and work with a team of professionals to enhance my skills and grow as a developer. I would love a chance to work on meaningful, innovative projects, and am energized by lifelong learning.
 
 - 🇧🇦 Born in Bosnia - Based in Arizona
 - 💻 3 Years of Design Experience
