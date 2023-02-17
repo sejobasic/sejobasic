@@ -9,7 +9,7 @@
 - 🎧 6 Years of Music Production & Sound Engineering
 - 📷 7 Years of Photography and Digital Media
 
-<hr />
+
 - Hobbies:
     - Building Projects
     - Web Design/Graphic Design
