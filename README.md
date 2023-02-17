@@ -9,11 +9,6 @@
 - 🎧 6 Years of Music Production & Sound Engineering
 - 📷 7 Years of Photography and Digital Media
 
-- Now Studying:
-    - Advanced Javascript
-    - SEO/Accessibility
-    - OOP
-    - Advanced CSS/Animations
 - Hobbies:
     - Building Projects
     - Web Design/Graphic Design
