@@ -1,7 +1,7 @@
 ![SEJOLOGOFINAL](https://user-images.githubusercontent.com/92968661/166338333-f49a1418-849c-4a17-9cd0-81bf3a290505.png)
 
 # ✨Hey, I'm Sejo!✨
-### Software Engineer and Graphic Designer with expertise in Front-End and User-Experience Development and Design.
+### Frontend Developer and Designer committed to delivering visually appealing and user-centric experiences through innovative web development. 
 
 - 🇧🇦 Born in Bosnia - Based in Arizona
 - 💻 3 Years of Design Experience
