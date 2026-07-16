@@ -1,10 +1,10 @@
 ![SEJOLOGOFINAL](https://user-images.githubusercontent.com/92968661/166338333-f49a1418-849c-4a17-9cd0-81bf3a290505.png)
 
 # ✨Hey, I'm Sejo!✨
-## Frontend Developer and Designer committed to delivering visually appealing and user-centric experiences through innovative web development. Born in Bosnia - Based in Arizona.
+#### Frontend Developer and Designer committed to delivering visually appealing and user-centric experiences through innovative web development. Born in Bosnia - Based in Arizona.
     
 
-## Connect with me!
+#### Connect with me!
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sejo-basic/)
 [<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">](https://codepen.io/sejobasic)
 [<img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white">](https://www.codesandbox.io/u/sejobasic/)
