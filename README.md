@@ -2,14 +2,6 @@
 
 # ✨Hey, I'm Sejo!✨
 ### Frontend Developer and Designer committed to delivering visually appealing and user-centric experiences through innovative web development. Born in Bosnia - Based in Arizona.
-
-
-- Hobbies:
-    - Building Projects
-    - Web Design/Graphic Design
-    - Digging Through Codepen for ideas
-    - Making Music(Ableton)
-    - Gaming
     
 
 ### Connect with me!
